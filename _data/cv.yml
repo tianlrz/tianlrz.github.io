@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rongzheng Liu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st January 2003
     - name: Languages
-      value: English, German
+      value: Chinese(Native), English(Proficient), French(Beginner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science
+      institution: Southeast University, Nanjing, China
+      year: 2021
       description:
         - Description 1.
         - Description 2.
