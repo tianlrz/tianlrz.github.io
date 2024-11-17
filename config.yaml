@@ -120,8 +120,8 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
-      disableAchievements: false
+      disableProjects: true
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -144,9 +144,11 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/tianlrz
         - icon: fab fa-facebook
-          url: https://example.com
+          url: https://www.facebook.com/profile.php?id=61561180271348
+        - icon: fab fa-youtube
+          url: https://www.youtube.com/@3196lrz
 
   # About
   about:
@@ -173,46 +175,34 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Digital Archives Intern"
+        company: "RCDH"
+        companyUrl: "https://pkudh.org/"
+        date: "Jun 2024 - present"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "View the platform"
+          url: "https://www.shidianguji.com/"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I am working remotely as a Digital Archives Intern in Research Center for Digital Humanities of PKU, where I assist in cataloging and digitizing ancient Chinese manuscripts to enhance their accessibility.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          - Assisted in cataloging and organizing volumes of ancient Chinese manuscripts.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
+      - job: "Research Intern"
+        company: "UR"
+        companyUrl: "https://www.uregina.ca/"
+        date: "Jun 2024 - Sep 2024"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          name: "CS Faculty"
+          url: "https://www.uregina.ca/science/computer-science/index.html"
+        info:
+          enable: true
+          content: I worked as a Mitacs Globalink Intern in University of Regina for three months.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Designed analysis framework integrating WoS API for large-scale academic impact evaluation.
+          - Conducted analysis of NSERC (RGPIN)’s impact on research productivity in CS & Mathematics.
 
   # Education
   education:
@@ -228,12 +218,12 @@ params:
         GPA: "3.83 out of 4.0"
         content: |-
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Vice President of YuShengHan Dubbing Studio, organized Mandarin promotion events and weekly dubbing activities
+            - Deputy Director of SEAL Recitation Team, won first place in SEU's 'Tribute to Classics' recitation competition
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -248,7 +238,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -302,7 +292,7 @@ params:
       count: 3
       title: Recent Posts
       enable: false
-      disableFeaturedImage: false
+      disableFeaturedImage: true
     socialNetworks:
       github: https://github.com
       linkedin: https://linkedin.com
