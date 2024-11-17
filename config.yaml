@@ -185,9 +185,10 @@ params:
           url: "https://www.shidianguji.com/"
         info:
           enable: true
-          content: I am working remotely as a Digital Archives Intern in Research Center for Digital Humanities of PKU, where I assist in cataloging and digitizing ancient Chinese manuscripts to enhance their accessibility.
+          content: I am working remotely as a Digital Archives Intern in Research Center for Digital Humanities of PKU.
         content: |
           - Assisted in cataloging and organizing volumes of ancient Chinese manuscripts.
+          - Helped to digitize ancient Chinese manuscripts to enhance their accessibility.
 
       - job: "Research Intern"
         company: "UR"
