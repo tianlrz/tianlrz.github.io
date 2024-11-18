@@ -164,13 +164,13 @@ params:
       title: "My research interests lie in:"
       items:
         - "Human-AI Interaction"
-        - "Age-friendly Design"
-        - "Social Computing"
         - "Digital Heritage"
+        - "Social Computing"
+        - "Age-friendly Design"
         - "Digital Philology"
         - "Accessible Computing"
 
-  # Experience
+  # Experienc
   experience:
     enable: true
     # title: "Custom Name"
