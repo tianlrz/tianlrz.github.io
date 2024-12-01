@@ -211,7 +211,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Bachelor of Science in Information Management & Information Systems"
+      - title: "Bachelor in Information Management & Information Systems"
         school:
           name: "Southeast University"
           url: "https://www.seu.edu.cn/english/"
