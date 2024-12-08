@@ -129,7 +129,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Rongzheng."
-    subtitle: "To suit, be a designer"
+    subtitle: "To connect, be a designer"
     content: "A student in the process of exploring the harmony between tech and humanity in the AI era, aspiring to making technology more heartfelt."
     image: /images/mount.jpg
     bottomImage:
