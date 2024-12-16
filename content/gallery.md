@@ -6,11 +6,11 @@ description: "My gallery :earth_asia:"
 layout: "gallery"
 galleryImages:
  - src: /images/1st.png
- - src: /images/2nd.png
+ - src: /images/2nd.jpg
  - src: /images/3rd.jpg
  - src: /images/4th.jpg
  - src: /images/5th.png
- - src: /images/6th.jpg
+ - src: /images/6th.png
 viewer : true
 viewerOptions : {
     title: false
