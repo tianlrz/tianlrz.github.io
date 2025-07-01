@@ -156,18 +156,16 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |-
-      I am a senior undergraduate student majoring in Information Management & Information Systems at Southeast University. My previous research experience focuses on Data Analytics and Social Computing.
+      I recently graduated from Southeast University with a degree in Information Management and Information Systems and am about to commence my Master of Science in Information Technology at the Hong Kong University of Science and Technology in Fall 2025.
 
-      I'm currently participating in a fall quarter exchange program at the University of California, San Diego.
+      My previous research experience focuses on Data Analytics and Social Computing.
     skills:
       enable: true
       title: "My research interests lie in:"
       items:
         - "Human-AI Interaction"
-        - "Digital Heritage"
         - "Social Computing"
         - "Age-friendly Design"
-        - "Digital Philology"
         - "Accessible Computing"
 
   # Experienc
@@ -178,14 +176,14 @@ params:
       - job: "Digital Archives Intern"
         company: "RCDH"
         companyUrl: "https://pkudh.org/"
-        date: "Jun 2024 - present"
+        date: "Jun 2024 - Jan 2025"
         featuredLink:
           enable: true
           name: "View the platform"
           url: "https://www.shidianguji.com/"
         info:
           enable: true
-          content: I am working remotely as a Digital Archives Intern in Research Center for Digital Humanities of PKU.
+          content: I worked remotely as a Digital Archives Intern in Research Center for Digital Humanities of PKU.
         content: |
           - Assisted in cataloging and organizing volumes of ancient Chinese manuscripts.
           - Helped to digitize ancient Chinese manuscripts to enhance their accessibility.
@@ -215,7 +213,7 @@ params:
         school:
           name: "Southeast University"
           url: "https://www.seu.edu.cn/english/"
-        date: "2021 - 2025 (Expected)"
+        date: "2021 - 2025"
         GPA: "3.84 out of 4.0"
         content: |-
           Extracurricular Activities & Hobbies
